@@ -7,4 +7,9 @@ HI,xixi
 111
 2222
 333333
+<<<<<<< HEAD
 Creating a new branch is quick & simple.
+=======
+creating a new branch is quick AND simple.
+>>>>>>> feature1
+creating a new branch is quick AND simple.
